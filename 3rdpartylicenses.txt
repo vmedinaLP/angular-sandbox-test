@@ -7,19 +7,23 @@ MIT
 @angular/core
 MIT
 
-@angular/elements
+@angular/forms
 MIT
 
-@angular/forms
+@angular/localize
 MIT
 
 @angular/platform-browser
 MIT
 
-document-register-element
+@angular/router
 MIT
 
-Copyright (C) 2014-2016 by Andrea Giammarchi - @WebReflection
+@ng-bootstrap/ng-bootstrap
+MIT
+The MIT License (MIT)
+
+Copyright (c) 2015-2018 Angular ng-bootstrap team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
